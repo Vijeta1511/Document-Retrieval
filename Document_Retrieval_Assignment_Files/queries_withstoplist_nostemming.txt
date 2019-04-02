@@ -1,0 +1,64 @@
+1 articles:1 computers:1 deal:1 exist:1 ibm:1 operating:1 sharing:1 system:2 time:1 tss:1
+2 articles:1 interested:1 pooch:2 prieve:2 udo:1 written:1
+3 compilers:1 construction:1 intermediate:1 languages:1 multi:1 targeted:1 tcoll:1
+4 abstract:1 calls:1 communicating:1 complete:1 descriptions:1 disjoint:1 distributed:1 environment:1 examples:1 exclusively:1 implementations:1 interested:1 interests:1 mechanisms:2 message:1 opposed:1 passing:1 possibly:1 problem:1 procedure:1 processes:1 remote:1 theoretical:1 work:1
+5 command:1 design:2 editing:1 effectiveness:1 efficiency:1 essential:1 human:1 implementation:1 improvements:1 interface:1 interfaces:1 interpreters:1 issues:1 managers:1 papers:1 satisfaction:1 user:1 views:1 window:1
+6 arm:1 articles:1 aspects:1 combinatorial:1 dynamics:1 geometric:1 interested:2 motion:2 planning:1 robotics:1
+7 algorithms:2 areas:1 communicate:1 concurrent:1 correctness:1 distributed:1 fault:1 include:1 interest:1 interested:1 message:1 passing:1 processes:1 programs:1 synchronize:1 techniques:1 tolerance:1 understanding:1
+8 addressing:2 network:1 networks:1 operating:1 resource:1 resources:1 schemes:1 systems:1
+9 considerations:1 distributed:1 local:1 network:1 networks:1 operating:1 security:1 systems:2
+10 computation:1 languages:2 parallel:2
+11 high:1 languages:1 level:1 setl:1
+12 operating:1 portable:1 systems:1
+13 code:1 efficiency:1 optimization:1 space:1
+14 algorithms:1 applications:1 database:1 discussions:1 find:1 implementations:1 management:1 optimal:1 sort:1
+15 discussions:1 emphasis:1 find:1 global:1 horizontal:1 loops:1 microcode:1 optimization:3 special:1
+16 based:1 descriptions:1 file:1 find:1 handling:1 message:1 multiple:1 operating:1 passing:1 processes:1 systems:1
+17 code:1 intermediate:1 machine:1 optimization:1
+18 code:1 compaction:1 compilers:1 highly:1 horizontal:1 languages:1 machines:1 microcoded:1 parallel:1 processors:1
+19 algorithms:1 parallel:1
+20 algorithms:1 applicable:1 graph:1 matrices:1 sparse:1 theoretic:1
+21 algorithms:1 class:1 complete:1 complexity:1 computational:1 efficiency:1 intractability:1 reductions:1
+22 algorithms:1 computer:1 cones:1 cylinders:1 graphics:1 hidden:2 interested:1 line:1 specialized:1 spheres:1 surface:1 topic:1 toroids:1
+23 algorithms:1 computing:1 distributed:1 structures:1
+24 applied:1 processes:1 stochastic:1
+25 computer:1 evaluation:1 modelling:1 performance:1 systems:1
+26 concurrency:1 control:1 mechanisms:1 operating:1 systems:1
+27 aspects:1 management:1 memory:1 operating:1 systems:1
+28 algorithms:1 dealing:1 hardware:1 information:1 interest:1 interested:1 network:2 networks:1 packet:2 radio:1 routing:1 topography:1
+29 algorithms:1 chinese:1 involving:1 number:2 prime:1 remainder:1 series:1 sieves:1 theorem:1 theoretic:1
+30 articles:1 bravo:1 examples:1 formatting:1 including:1 nroff:1 scribe:1 systems:2 text:1
+31 american:1 andrews:2 applications:1 approximations:1 article:1 articles:1 decomposition:1 describing:1 digital:2 expansions:1 find:1 finding:1 image:3 images:1 include:1 mathematical:1 noise:1 original:1 outer:1 patterson:2 processing:2 product:1 restoring:1 singular:1 subject:2
+32 ajacency:1 algorithms:2 articles:1 based:1 coloring:1 decomposition:2 describing:1 eigenvalue:1 find:1 graph:4 heuristic:1 interested:1 isomorphism:1 matrix:1 method:1 singular:1
+33 analysis:2 approximate:1 articles:2 bounds:1 closed:1 davis:2 decomposition:1 distinct:1 eigenspaces:1 eigenvalue:1 eigenvalues:1 eigenvectors:1 error:1 interested:1 invariant:1 kahn:2 linear:1 matrices:2 numerical:2 operators:1 permutation:1 real:1 rotation:1 sensitivity:1 separation:1 siam:2 stewart:2 subject:1 subspaces:1 vol:2
+34 heindel:1 interested:1 isolation:1 material:1 polynomial:1 recent:1 root:1
+35 algebraic:1 algorithm:1 algorithms:1 dealing:1 examples:1 field:1 finite:1 identities:1 manipulation:1 polynomial:1 probabilistic:3 rabiin:1 rabin:1 siam:2 symbolic:1 testing:1 waztch:1
+36 algorithm:1 context:1 fast:1 free:1 language:1 parsing:1 recognition:1
+37 articles:1 attempt:1 bit:1 check:1 concurrency:1 correct:1 data:1 describing:1 message:2 messages:1 notion:1 passing:1 process:1 processes:1 receiver:1 relationship:1 sender:1 stream:1 synchronization:1 system:1 treating:1 type:3 types:2
+38 abstract:1 avoid:1 check:1 contexts:1 data:1 don:1 entire:1 interested:1 literature:1 matches:1 module:2 phrase:1 questions:1 type:1 types:1
+39 abstract:1 compatibility:1 data:1 defined:1 definition:1 definitions:1 extensible:1 languages:2 operators:1 programmer:2 restrict:1 supplied:1 type:1 types:2
+40 articles:1 catch:1 data:1 dealing:1 frequently:1 interesting:1 languages:3 list:1 missed:1 papers:1 referenced:1 structures:1 type:1 types:1
+41 algorithms:1 allocation:1 asynchronous:1 atomicity:1 bounds:1 box:1 communicating:1 conn:1 databases:1 distributed:3 fault:1 haven:1 include:1 interest:1 lower:1 models:1 parallel:1 processes:1 protocols:1 reliability:1 resource:1 special:1 station:1 subtopics:1 synchronization:1 systems:3 theory:2 tolerance:1 transactions:1 yale:1
+42 clustering:1 computer:1 evaluation:1 la:1 pattern:1 performance:1 recognition:1 techniques:1
+43 analysis:1 circularity:1 computer:1 computers:1 descriptions:1 dimensional:1 humans:1 matching:1 measures:1 perception:1 recognition:1 shape:4 shapes:1
+44 analysis:2 computer:1 digitized:1 perception:1 synthesis:1 texture:4
+45 databases:1 decisions:1 distributed:1 file:1 fine:1 includes:1 index:1 information:1 models:1 operations:1 optimize:1 performance:1 reorganization:1 research:1 secondary:1 selection:1 system:1 tuning:1
+46 application:1 automatic:1 clustering:1 considerations:1 evaluation:1 fuzzy:1 includes:1 indexing:1 information:1 performance:1 problems:1 retrieval:1 subset:1 theory:1
+47 bayesian:1 cease:1 decision:1 determine:1 includes:1 information:1 models:1 optimize:1 output:1 performance:1 retrieval:2 rules:1 scanning:1 search:1 stopping:1 system:1 user:1
+48 algorithm:1 algorithms:2 complexity:1 computer:1 data:1 ellipsoidal:1 generating:1 includes:1 issues:1 khachian:1 linear:1 methods:1 numerical:1 optimization:1 principles:1 programming:1 russian:1 science:1 structures:1
+49 based:1 expert:1 information:1 knowledge:1 retrieval:1 role:1 systems:2
+50 information:1 parallel:1 processors:1 retrieval:1
+51 algorithms:1 paging:1 parallel:1 processors:1
+52 agricultural:1 ecosystems:1 modelling:1 simulation:1
+53 binomial:2 coefficients:1 group:1 hall:1 homomorphism:1 induction:1 integers:1 link:1 mathematical:1 matrix:1 modulo:1 morphism:1 probability:1 relation:1 relations:1 syracuse:2 theorem:1 theory:1 transitivity:1 university:1
+54 abstract:1 amherst:1 correctness:1 data:1 denotational:1 dijkstra:1 hoare:1 including:1 languages:1 ma:1 massachusetts:1 programming:1 proofs:1 semantics:2 specifications:1 types:1 university:1
+55 dealing:1 events:1 expressions:1 height:1 languages:1 regular:3 star:1
+56 algebraic:1 articles:1 automata:1 languages:1 monoids:1 regular:1 relation:1 semigroups:1 study:1 theory:1
+57 abstracts:1 acm:1 algebra:1 articles:1 backus:2 cacm:2 de:1 forum:1 functional:1 letter:1 liberated:1 lipton:2 millo:2 neumann:1 perlis:2 programming:1 programs:1 style:2 von:1
+58 algorithms:1 anova:1 capabilities:1 components:1 design:1 formula:1 generalized:1 included:1 interest:1 linear:1 models:1 multivariate:1 packages:1 regression:1 sign:1 squares:1 statistical:2 student:1 system:1 test:1 tests:1 univariate:1 wilcoxon:1
+59 accessing:1 applied:1 construction:1 dictionary:1 english:1 fast:1 hashing:1 indexing:1 information:1 items:1 language:1 lexical:1 methods:2 morphologically:1 natural:1 problems:1 related:1 retrieval:1 spelling:1 words:1
+60 adabas:1 associative:1 attached:1 back:1 codasyl:1 computers:1 database:2 disk:1 end:1 hardware:2 heads:1 hierarchical:1 ims:1 management:1 microcomputers:1 models:1 network:1 packages:1 rap:1 relating:1 relational:1 software:1 special:1 system:1 systems:2 things:1 total:1
+61 articles:1 bibliographic:1 boolean:1 citations:2 clustering:1 coupling:1 feedback:1 files:1 gerard:1 information:1 inverted:1 methods:1 model:1 retrieval:1 salton:2 search:1 space:1 vector:1
+62 circuits:1 complexity:1 parallel:1 pram:1 relating:1 results:1 theory:1 uniform:1
+63 algorithms:2 comparisons:1 computation:1 parallel:2 sequential:1
+64 articles:1 don:1 ecl:1 el:3 list:1 remember:1
